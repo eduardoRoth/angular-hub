@@ -46,7 +46,8 @@ It excludes the `src/content` folder, which includes trademarks and logos from t
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/adrianromanski/"><img src="https://avatars.githubusercontent.com/u/44946000?v=4?s=100" width="100px;" alt="Adrian Romanski"/><br /><sub><b>Adrian Romanski</b></sub></a><br /><a href="#code-AdrianRomanski" title="Code">💻</a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://eduardoroth.dev"><img src="https://avatars.githubusercontent.com/u/5419161?v=4?s=100" width="100px;" alt="Eduardo Roth"/><br /><sub><b>Eduardo Roth</b></sub></a><br /><a href="#doc-eduardoRoth" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://eduardoroth.dev"><img src="https://avatars.githubusercontent.com/u/5419161?v=4?s=100" width="100px;" alt="Eduardo Roth"/><br /><sub><b>Eduardo Roth</b></sub></a><br /><a href="#doc-eduardoRoth" title="Documentation">📖</a> <a href="#code-eduardoRoth" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/danilolmc"><img src="https://avatars.githubusercontent.com/u/31545128?v=4?s=100" width="100px;" alt="Danilo Lima"/><br /><sub><b>Danilo Lima</b></sub></a><br /><a href="#code-danilolmc" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
